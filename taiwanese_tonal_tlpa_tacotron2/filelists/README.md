@@ -1,0 +1,2 @@
+使用filelist.py.py將要訓練的train檔案長度過大的音檔縮短
+將train.csv轉成txt檔案
